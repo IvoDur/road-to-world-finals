@@ -49,4 +49,6 @@ const int MAXN = 1e6 + 3;
 #define fbo find_by_order
 #define ook order_of_key
 
+
+//g++ -std=c++11 -O2 -Wall test.cpp -o test
 int main() {}
